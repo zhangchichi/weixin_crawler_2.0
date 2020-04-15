@@ -1,0 +1,5 @@
+.idea/
+__pycache__
+.vscode/
+web_server/static/html/
+*.pyc
